@@ -44,7 +44,7 @@ cd NetshoesScrapper
  
 ## ▶️ Execução
  
-Gere o `.jar` e o execute diretamente:
+Na raiz do projeto, onde se encontra o `pom.xml`, gere o `.jar` e o execute diretamente com:
  
 ```bash
 mvn package
