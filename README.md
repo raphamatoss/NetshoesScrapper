@@ -42,21 +42,9 @@ git clone https://github.com/raphamatoss/NetshoesScrapper.git
 cd NetshoesScrapper
 ```
  
-## 🔨 Compilação
- 
-Na raiz do projeto (onde está o `pom.xml`), execute:
- 
-```bash
-mvn clean compile
-```
- 
-O Maven irá baixar automaticamente a dependência do Selenium (`selenium-java 4.43.0`) e compilar o projeto.
- 
----
- 
 ## ▶️ Execução
  
-Após compilar, gere o `.jar` e execute diretamente:
+Gere o `.jar` e o execute diretamente:
  
 ```bash
 mvn package
